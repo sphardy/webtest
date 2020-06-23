@@ -1,0 +1,9 @@
+_site
+_docs
+_dev
+.sass-cache
+.jekyll-metadata
+.jekyll-cache
+.ruby-version
+*.lock
+Icon\r
